@@ -25,7 +25,7 @@ SECRET_KEY = '9o^@1cqzs48tt%vu#di=mvt**&t9gmk*jyzt*ao&+2-h)3$w$m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'zorichд.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'zorich.pythonanywhere.com']
 
 
 # Application definition
